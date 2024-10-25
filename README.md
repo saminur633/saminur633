@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://saminur633.github.io/saminur-rahman/](https://saminur633.github.io/saminur-rahman/)
+- 👨‍💻 All of my projects are available at [ https://saminurrahman.netlify.app/]( https://saminurrahman.netlify.app/)
 
 - 💬 Ask me about **HTMl, CSS, JS, ReactJs, Tailwind, Bootstarp**
 
