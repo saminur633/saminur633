@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://github.com/saminur633/saminur633/assets/152188402/15482efe-3ba5-49f1-a117-052b52fab599"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminur633&label=Profile%20views&color=0e75b6&style=flat" alt="saminur633" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [ https://saminurrahman.netlify.app/]( https://saminurrahman.netlify.app/)
 
